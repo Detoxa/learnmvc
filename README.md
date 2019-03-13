@@ -1,1 +1,3 @@
-# learnmvc
+# Learn MVC
+
+Simple MVC framework.

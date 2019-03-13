@@ -5,7 +5,11 @@
         }
 
         public function index(){
-            $this->view('pages/index', ['title' => 'Hello World!']);
+            $data = [
+                'title' => 'Hello World!'
+            ];
+            
+            $this->view('pages/index', $data);
         }
 
         public function about(){

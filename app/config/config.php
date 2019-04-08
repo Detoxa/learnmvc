@@ -11,4 +11,4 @@
     // URL Root
     define('URLROOT', 'http://learnmvc.loc/');
     // Site name
-    define('SITENAME' , 'LearMvc');
+    define('SITENAME' , 'LearMVC');
